@@ -1,4 +1,6 @@
 //Leetcode Problem 1: Two Sum
+// Time Complexity: O(n^2) where n is the length of the array
+// Space Complexity: O(1)
 package main
 
 func twoSum(nums []int, target int) []int {
