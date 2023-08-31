@@ -1,3 +1,4 @@
+// Leetcode Problem 2520: Count the Digits That Divide A Number
 func countDigits(num int) int {
 	temp := num
 	count := 0
