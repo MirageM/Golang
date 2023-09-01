@@ -1,4 +1,6 @@
 // Leetcode Problem 9: Palindrome Number
+// Time Complexity: O(n) where n is the number of digits in the number
+// Space Complexity: O(1)
 
 package main
 
