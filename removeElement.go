@@ -1,3 +1,6 @@
+// Leetcode Problem 27: Remove Element
+package main
+
 func removeElement(nums []int, val int) int {
 	index := 0
 	for _, num := range nums {
