@@ -1,4 +1,6 @@
 // Leetcode Problem 27: Remove Element
+// Time Complexity: O(n) where n is the length of the array
+// Space Complexity: O(1)
 package main
 
 func removeElement(nums []int, val int) int {
