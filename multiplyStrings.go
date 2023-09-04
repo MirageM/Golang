@@ -20,9 +20,9 @@ func multiply(num1 string, num2 string) string {
 			mul := n1i * n2i
 			p1 := i + j
 			p2 := p1 + 1
-			sum := res[p2] + mul
-			res[p2] = sum % 10
-			res[p1] += sum / 10
+			sum := result[p2] + mul
+			result[p2] = sum % 10
+			result[p1] += sum / 10
 		}
 	}
 	i := 0
