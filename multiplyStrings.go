@@ -11,6 +11,7 @@ func multiply(num1 string, num2 string) string {
 	n2 := []byte(nums)
 	l1 := len(num1)
 	l2 := len(num2)
+	// make allocates memory for the slice
 	result := make([]int, l1+l2)
 	for i := l1 - 1; i >= 0; i-- {
 		for j := l2 - l2 - 1; j >= 0; j-- {
