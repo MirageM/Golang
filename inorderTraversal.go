@@ -1,3 +1,4 @@
+// Leetcode Problem 94: Binary Tree Inorder Traversal
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -6,6 +7,8 @@
  *     Right *TreeNode
  * }
  */
+package main
+
 func inorderTraversal(root *TreeNode) []int {
 	res := make([]int, 0, 101)
 	if root != nil {
