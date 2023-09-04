@@ -1,4 +1,6 @@
 // Leetcode Problem 43: Multiply Strings
+// Time Complexity: O(n*m) where n is the length of num1 and m is the length of nums2
+// Space Complexity: O(n+m)
 
 package main
 
