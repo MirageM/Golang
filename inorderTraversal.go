@@ -1,4 +1,6 @@
 // Leetcode Problem 94: Binary Tree Inorder Traversal
+// Time Complexity: O(n) where n is the number of nodes in the tree
+// Space Complexity: O(n) where n is the number of nodes in the tree
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
