@@ -1,3 +1,7 @@
+package main
+
+import "strconv"
+
 func multiply(num1 string, num2 string) string {
 	n1 := []byte(num1)
 	n2 := []byte(nums)
