@@ -1,4 +1,6 @@
 // Leetcode Problem 242: Valid Anagram
+// Time Complexity: O(n) where n is the length of the string
+// Space Complexity: O(1)
 package main
 
 func isAnagram(s string, t string) bool {
