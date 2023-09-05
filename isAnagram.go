@@ -1,3 +1,6 @@
+// Leetcode Problem 242: Valid Anagram
+package main
+
 func isAnagram(s string, t string) bool {
 	chars := make(map[rune]int)
 
