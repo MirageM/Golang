@@ -1,4 +1,6 @@
 // Leetcode Problem 67: Add Binary
+// Time Complexity: O(n) where n is the length of the longer string
+// Space Complexity: O(n) where n is the length of the longer string
 
 package main
 
