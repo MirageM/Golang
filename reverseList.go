@@ -1,4 +1,6 @@
 // Leetcode Problem 206: Reverse Linked List
+// Time Complexity: O(n) where n is the length of the linked list
+// Space Complexity: O(1)
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
