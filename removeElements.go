@@ -1,4 +1,6 @@
 // Leetcode Problem 203: Remove Linked List Elements
+// Time Complexity: O(n) where n is the length of the linked list
+// Space Complexity: O(n) call stack
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
