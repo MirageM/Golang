@@ -8,6 +8,8 @@
  *     Next *ListNode
  * }
  */
+package main
+
 func removeElements(head *ListNode, val int) *ListNode {
 	if head == nil {
 		return nil
