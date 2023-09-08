@@ -8,6 +8,9 @@
  *     Next *ListNode
  * }
  */
+
+package main
+
 func reverseList(head *ListNode) *ListNode {
 	if head == nil {
 		return nil
