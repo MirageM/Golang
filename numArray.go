@@ -1,3 +1,7 @@
+// Leetcode Problem 303: Range Sum Query - Immutable
+
+package main
+
 type NumArray struct {
 	size        int
 	prefixTable []int
