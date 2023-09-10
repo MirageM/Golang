@@ -1,4 +1,6 @@
 // Leetcode Problem 303: Range Sum Query - Immutable
+// Time Complexity: O(n) where n is the length of the array
+// Space Complexity: O(n) where n is the size of the prefix table
 
 package main
 
