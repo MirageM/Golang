@@ -1,4 +1,4 @@
-// Extremely dificult problem
+// Extremely dificult problem // Golang
 // Leetcode Problem 290. Word Pattern
 // Time Complexity: O(n) where n is the length of s
 // Space Complexity: O(2n) where n is the length of s
