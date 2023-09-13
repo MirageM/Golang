@@ -1,4 +1,7 @@
 // Leetcode Problem 389: Find the Difference
+// Time Complexity: O(n) where n is the length of s
+// Space Complexity: O(n) where n is the length of s
+
 package main
 
 func findTheDifference(s string, t string) byte {
