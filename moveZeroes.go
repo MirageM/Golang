@@ -1,4 +1,6 @@
 // Leetcode Problem 283. Move Zeroes
+// Time Complexity: O(n) where n is the length of nums
+// Space Complexity: O(1)
 package main
 
 func moveZeroes(nums []int) {
