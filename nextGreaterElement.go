@@ -1,4 +1,6 @@
 // Leetcode Problem 496. Next Greater Element I
+// Time Complexity: O(n^2) where n is the length of nums2
+// Space Complexity: O(n)
 
 package main
 
