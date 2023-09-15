@@ -1,3 +1,5 @@
+// Leetcode Problem 496. Next Greater Element I
+
 package main
 
 func nextGreaterElement(nums1 []int, nums2 []int) []int {
